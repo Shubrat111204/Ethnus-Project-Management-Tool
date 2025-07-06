@@ -1,0 +1,14 @@
+.team {
+  padding: 20px;
+}
+
+.team h1 {
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.team-content {
+  background: #f5f5f5;
+  padding: 20px;
+  border-radius: 8px;
+}

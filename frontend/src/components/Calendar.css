@@ -1,0 +1,14 @@
+.calendar {
+  padding: 20px;
+}
+
+.calendar h1 {
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.calendar-content {
+  background: #f5f5f5;
+  padding: 20px;
+  border-radius: 8px;
+}
